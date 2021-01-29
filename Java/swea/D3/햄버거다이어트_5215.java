@@ -30,7 +30,7 @@ public class 햄버거다이어트_5215 {
 	static int answer = 0;
 	static int n, l;
     
-    static void solve(int idx, int sumScore, int sumKcal) {
+    	static void solve(int idx, int sumScore, int sumKcal) {
 		if (idx == n) {
 			if (answer < sumScore && sumKcal <= l) {
 				answer = sumScore;
