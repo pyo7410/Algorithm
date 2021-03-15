@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class 러시아국기같은깃발_4613 {
+public class 4613_러시아국기같은깃발 {
 	public static int N, M, answer;
 	public static char[][] flag;
 	public static char[] colors;
